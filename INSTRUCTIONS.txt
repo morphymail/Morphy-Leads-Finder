@@ -1,0 +1,6 @@
+1. DONOT ENTER COUNTRY NAME IN LOCATION TEXT BOX. ENTER ONLY "CITY NAME, STATE NAME, COUNTRY NAME"
+EXAMPLE:   "DALLAS, TEXAS, USA"
+
+2. GIVE ATLEAST 5 KEYWORDS AND 5 TO 10 LOCATIONS IN A SINGLE SEARCH.
+
+3. DOWNLOAD BOXXER EMAIL EXTRACTOR FROM https://www.emailextractor.co/boxxeremailextractor.exe and install it on your windows pc to get locations from all states in all countries in the world. This software is our free forever email extractor software using which you can extract unlimited email addresses for lifetime based on given keywords and locations.
